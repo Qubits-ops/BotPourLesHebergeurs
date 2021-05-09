@@ -1,0 +1,21 @@
+{
+  "name": "hebergetonservbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: aucun test spécifié\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.21.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "mongodb": "^3.6.3",
+    "ping": "^0.4.1"
+  }
+}
